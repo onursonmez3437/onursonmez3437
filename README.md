@@ -18,16 +18,18 @@
     <tr>
         <!-- Sol Kısım -->
         <td style="width: 50%; padding: 0px;">
-          <h2 align="center">👩‍💻 Programlama ve Veritabanı</h2>
+          <h2 align="center">👩‍💻Frontend & Backend</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="Vue.js">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img height="30" width="30" src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="SQL"   
+    
 </p>
+
 <h2 align="center">👩‍💻 Kullandığım IDE Çeşitleri</h2>
 <p align="center">
 <code><img height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest/scale-to-width-down/250?cb=20191221122625"></code>
